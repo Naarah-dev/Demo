@@ -11,10 +11,11 @@ public class TongHaiSo {
         int b = scanner.nextInt();
 
         int tong = a + b;
-
+//edit flow with reviewer
         System.out.println("Tong hai so a va b = " + tong);
 
         scanner.close();
     }
 
 }
+
