@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//for review
+//for review code
 public class TongHaiSo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -18,3 +18,4 @@ public class TongHaiSo {
     }
 
 }
+
