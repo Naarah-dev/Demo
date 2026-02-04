@@ -13,9 +13,10 @@ public class TongHaiSo {
         int tong = a + b;
 
         System.out.println("Tong hai so a va b = " + tong);
-
+//sua theo review
         scanner.close();
     }
 
 }
+
 
